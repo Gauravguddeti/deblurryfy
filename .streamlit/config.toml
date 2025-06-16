@@ -1,0 +1,14 @@
+[server]
+fileWatcherType = "none"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[global]
+developmentMode = false
+
+[logger]
+level = "error"
+
+[browser]
+gatherUsageStats = false
